@@ -45,4 +45,4 @@ httpd.serve_forever()
 ![output](./image/out.png)
 
 ## RESULT:
-program exicuted sucessfully
+program executed sucessfully
